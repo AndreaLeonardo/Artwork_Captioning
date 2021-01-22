@@ -24,9 +24,9 @@ In this project, an image captioning neural network (https://github.com/fg91/Neu
 The frontend side was implemented with Flutter. To be able to use it, simply import the ''Frontend" folder into an Android Studio project.
 
 ### Backend
-The frontend side was implemented in Python. The '' Backend "folder contains the code files to be able to test the network and its training locally, but requires the installation of several libraries related to machine learning, including torch and fastai (specifically fasta1, the first version).
+The frontend side was implemented in Python. The ''Backend" folder contains the code files to be able to test the network and its training locally, but requires the installation of several libraries related to machine learning, including torch and fastai (specifically fasta1, the first version).
 
 In order to use the code faster, just use the notebook directly on Google Colab.
-n this case, to generate the url to insert in the application, it will be sufficient to execute the cell following the installation of ngrok. It will generate in output the ngrok tunnel to insert.
+In this case, to generate the url to insert in the application, it will be sufficient to execute the last cell (following the installation of ngrok). It will generate in output the ngrok tunnel to insert.
 
 
