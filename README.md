@@ -11,9 +11,9 @@ The purpose of this project is therefore relatively less demanding than a true d
 we have designed an application that takes a photograph and shows you a description of it. Its use is very simple as you can see from the images below:
 
 
-<img src="demo/inserimento_url.png" width="400">
+<img src="demo/inserimento_url.png">
 
-<img src="demo/scatto_foto.png" width="400">
+<img src="demo/scatto_foto.png">
 
 
 
