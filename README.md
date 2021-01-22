@@ -10,10 +10,10 @@ The purpose of this project is therefore relatively less demanding than a true d
 ## Application
 we have designed an application that takes a photograph and shows you a description of it. Its use is very simple as you can see from the images below:
 
-- inserimento dell'URL
+- insertion of the URL
 <img src="/demo/inserimento_url.png" width="400">
 
-- scatto della fotografia
+- Taking the photo
 <img src="/demo/scatto_foto.png" width="300">
 
 ## Implementation
