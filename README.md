@@ -29,4 +29,11 @@ The frontend side was implemented in Python. The ''Backend" folder contains the 
 In order to use the code faster, just use the notebook directly on Google Colab.
 In this case, to generate the url to insert in the application, it will be sufficient to execute the last cell (following the installation of ngrok). It will generate in output the ngrok tunnel to insert.
 
+The notebook presents the processing of three json files:
+- The Flickr30k dataset
+- The Artpedia dataset (with relative thinning of captions)
+- My personal dataset
+
+These processing examples can be used to test the network with your own datasets.
+
 
